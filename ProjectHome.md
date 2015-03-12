@@ -1,0 +1,1 @@
+Tool allow easy localize Valve text files, such as 
